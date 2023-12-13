@@ -16,7 +16,7 @@ Provide the input coordinates in the `input.txt` file. The format should be:
 <player>
 <prev_state>
 <curr_state>
-
+```
 
 ## Run the Algorithm
 
@@ -24,7 +24,7 @@ Execute the following command to run the AI agent:
 
 ```bash
 python go_game_ai.py
-
+```
 
 # Output
 
