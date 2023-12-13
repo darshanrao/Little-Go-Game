@@ -23,7 +23,7 @@ Provide the input coordinates in the `input.txt` file. The format should be:
 Execute the following command to run the AI agent:
 
 ```bash
-python go_game_ai.py
+python little_go.py
 ```
 
 # Output
