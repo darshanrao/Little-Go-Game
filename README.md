@@ -1,6 +1,9 @@
 # Go Game AI Agent
 
 This Go game AI agent is implemented in Python using the Minimax algorithm to play the game of Go. The agent considers various game states and employs strategic decision-making.
+This is a homework assigment for CSCI561 Foundation of Artificial Intelligence
+
+<p align="center"><img src="littlego.jpeg" alt="gamephoto" width="500" /></p>
 
 ## Usage
 
@@ -70,5 +73,8 @@ Explore and modify algorithm parameters for different game instances. Adjust the
 ## Note
 
 This AI agent is designed for educational purposes and can be enhanced for more sophisticated gameplay.
+
+## References
+- [CSCI 561- Fall 2023-Homework 2.pdf](https://github.com/darshanrao/Little-Go-Game/blob/main/2023F_HW2-Description.docx.pdf)
 
 Happy coding and enjoy playing Go with the AI agent!
